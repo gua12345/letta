@@ -1,3 +1,5 @@
+# 项目名称
+这是英文版 README，中文版请查看 [README_CN.md](./README_CN.md)。
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/letta-ai/letta/refs/heads/main/assets/Letta-logo-RGB_GreyonTransparent_cropped_small.png">
